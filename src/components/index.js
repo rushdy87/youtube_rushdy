@@ -5,3 +5,5 @@ export { default as ChannelDetail } from './channel-detail/ChannelDetail';
 export { default as SearchFeed } from './search-feed/SearchFeed';
 export { default as SearchBar } from './search-bar/SearchBar';
 export { default as Sidebar } from './sidebar/Sidebar';
+export { default as VideoCard } from './video-card/VideoCard';
+export { default as ChannelCard } from './channel-card/ChannelCard';
